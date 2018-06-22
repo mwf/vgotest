@@ -1,4 +1,4 @@
-package stderr
+package stdout
 
 import (
 	"fmt"
